@@ -199,5 +199,5 @@ Hossein Karimi - [@AmirrHussain](https://github.com/AmirrHussain)
 
 ## 🔗 Links
 
-- Project Link: [https://github.com/mahdizynali/brain-tumor-detection](https://github.com/AmirrHussain/segmentation-of-brain-diseases)
-- Dataset Source: [LGG Segmentation Dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
+- [Project Link](https://github.com/AmirrHussain/segmentation-of-brain-diseases)
+- [LGG Segmentation Dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
